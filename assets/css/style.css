@@ -1,6 +1,37 @@
 @import "layout.css";
 
 body {
-	background-color: #F8F8FF;
+	background-color: #065D99;
+	text-align: center;
+	font-family: ;
+	color: #FFF;
 }
 
+#wrapper {
+	max-width: 24em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 12em;
+}
+
+a {
+	text-decoration: none;
+	padding: 1em;
+	margin:0.25em;
+	background-color: #FFF;
+	display: inline-block;
+	min-width: 6em;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	margin:1em;
+
+}
+
+form {
+	padding: 1em;
+}
